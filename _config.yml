@@ -1,20 +1,20 @@
 
 title: My Resume
-url: 'http://junlulocky.com'
+url: 'http://ankit.github.io'
 baseurl: '/PanelCV' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Ankit Swarnkar  ## put your name
+title: 'Data Science Graduate Student'  ## your title
+location: Indiana University, Bloomington
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
+facebook: https://www.facebook.com/ankit.swarnkar  ## your facebook account url
 twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
+linkedin: https://www.linkedin.com/in/ankitswarnkar/  ## your linkedin account url
 dribbble: http://www.dribble.com  ## you dribbble account url
 foursquare: http://www.foursquare.com  ## your foursquare account url
 
